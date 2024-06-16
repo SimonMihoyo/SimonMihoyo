@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SimonMihoyo；
-- 👀 I’m interested in ？；
-- 🌱 I’m currently learning C++ and Visual Basic 6.0；
+- 👀 I’m interested in (nothing?But nothing)；
+- 🌱 I’m currently learning C++ and .net；
 - 💞️ I’m looking to collaborate on thing？；
-- 📫 How to reach me ：2036819868@qq.com or (None)；
+- 📫 How to reach me ：SimonMihoyo1130@outlook.com or (None)；
 
 <!---
 SimonMihoyo/SimonMihoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
