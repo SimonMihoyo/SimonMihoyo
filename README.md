@@ -8,7 +8,3 @@
 
 这里是SimonMihoyo！
 或者可以叫我小茶～
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimonMihoyo)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonMihoyo&size_weight=0.5&count_weight=0.5)
