@@ -7,5 +7,5 @@
 >Chunithm or O.N.G.E.K.I are also acceptable~
 
 这里是SimonMihoyo!  
-或者可以叫我小茶～
+或者可以叫我小茶～  
 长时间潜水中（确信
